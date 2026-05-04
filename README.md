@@ -71,15 +71,8 @@ The final modelling table contains VALUE as the target variable and a mix of tem
 3. Ensure the crime CSV file is in the same folder as the notebook
 4. Run all cells in order (Cell → Run All)
 
-> **Requirements:** Python 3.x, pandas, numpy, matplotlib, seaborn, scikit-learn
-
 ---
 
 ## Author
 
 **Mohd Nizam Nasir Shaikh**
-
-MSc Financial Technology — National College of Ireland, Dublin
-
-LinkedIn: https://www.linkedin.com/in/nizam-shaikh-90b737199  
-GitHub: https://github.com/nizamshaikh12
